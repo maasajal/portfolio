@@ -1,0 +1,4 @@
+node_modules
+npm
+.env
+public/.DS_Store
